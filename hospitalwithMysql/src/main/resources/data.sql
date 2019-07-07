@@ -1,0 +1,1 @@
+insert into person(name,age,emailId) values('suri',12,'suri@gmailcom');
