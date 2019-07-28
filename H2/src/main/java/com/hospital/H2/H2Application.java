@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+//h2 APPLICATION
 public class H2Application {
 
 	public static void main(String[] args) {
